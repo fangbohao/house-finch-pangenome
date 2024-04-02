@@ -1,1 +1,1 @@
-# house-finch-pangenome
+# House finch pangenome
